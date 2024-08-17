@@ -30,8 +30,6 @@ Stealth 2.31:https://www.moddb.com/mods/stalker-anomaly/addons/stealth1
 
 Gear Rattle:https://www.moddb.com/mods/stalker-anomaly/addons/gear-rustle-redone
 
-Work Tool Addon:https://www.moddb.com/mods/stalker-anomaly/addons/work-tool-addon
-
 Stashes Overhaul:https://www.moddb.com/mods/stalker-anomaly/addons/groks-stash-overhaul-redux
 
 Fillable Canteens 2.0:https://www.moddb.com/mods/stalker-anomaly/addons/fillable-canteens-20
