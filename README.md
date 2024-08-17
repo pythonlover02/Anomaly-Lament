@@ -61,10 +61,10 @@ Camera Reanimation Project:https://www.moddb.com/mods/stalker-anomaly/addons/cam
 
 Stalker Anomaly Modded Exes:https://github.com/themrdemonized/STALKER-Anomaly-modded-exes
 
-Better Graphics:https://www.moddb.com/mods/stalker-anomaly/addons/anomaly-immersive-recommended-for-low-pc-1512
-
-Gloomy & Rainy Mode:https://www.moddb.com/mods/stalker-anomaly/addons/gloomy-rainy-mode-151-152/#8432008
-
 Utjan's Item UI Improvements:https://www.moddb.com/mods/stalker-anomaly/addons/utjans-item-ui-improvements
 
 New Walk & Run Animation:https://www.moddb.com/mods/stalker-anomaly/addons/new-walk-run-animation
+
+Better Graphics:https://www.moddb.com/mods/stalker-anomaly/addons/anomaly-immersive-recommended-for-low-pc-1512 //optional graphic mod
+
+Gloomy & Rainy Mode:https://www.moddb.com/mods/stalker-anomaly/addons/gloomy-rainy-mode-151-152/#8432008 //optional graphic mod
