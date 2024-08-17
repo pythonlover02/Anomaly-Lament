@@ -23,23 +23,15 @@ Inventory Weights Revised:https://www.moddb.com/mods/stalker-anomaly/addons/1511
 
 Maki's Gesture system 2.0:https://www.moddb.com/mods/stalker-anomaly/addons/mgs-makis-gesture-system-20
 
-Intimidate Enemies Into Surrendering:https://www.moddb.com/mods/stalker-anomaly/addons/anomaly-151-intimidate-enemies-into-surrendering-mcm-v1-0
-
-Convert surrendering enemies to your faction:https://www.moddb.com/mods/stalker-anomaly/addons/anomaly-151-convert-surrendering-enemies-to-your-faction-v10
-
 Stealth 2.31:https://www.moddb.com/mods/stalker-anomaly/addons/stealth1
 
 Gear Rattle:https://www.moddb.com/mods/stalker-anomaly/addons/gear-rustle-redone
 
 Work Tool Addon:https://www.moddb.com/mods/stalker-anomaly/addons/work-tool-addon
 
-Weapon Parts Overhaul:https://www.moddb.com/mods/stalker-anomaly/addons/weapon-parts-overhaul
-
 Stashes Overhaul:https://www.moddb.com/mods/stalker-anomaly/addons/groks-stash-overhaul-redux
 
 Fillable Canteens 2.0:https://www.moddb.com/mods/stalker-anomaly/addons/fillable-canteens-20
-
-Arszi's Campfire Roasting:https://www.moddb.com/mods/stalker-anomaly/addons/arszis-campfire-roasting-for-anomaly-15
 
 Blindside's Weapon Reanimation and Rebalance:https://www.moddb.com/mods/stalker-anomaly/addons/blindsides-weapon-reanimation-and-rebalance-loner
 
@@ -73,4 +65,6 @@ Better Graphics:https://www.moddb.com/mods/stalker-anomaly/addons/anomaly-immers
 
 Gloomy & Rainy Mode:https://www.moddb.com/mods/stalker-anomaly/addons/gloomy-rainy-mode-151-152/#8432008
 
-New levels:https://www.moddb.com/mods/stalker-anomaly/addons/promzone-level
+Utjan's Item UI Improvements:https://www.moddb.com/mods/stalker-anomaly/addons/utjans-item-ui-improvements
+
+New Walk & Run Animation:https://www.moddb.com/mods/stalker-anomaly/addons/new-walk-run-animation
