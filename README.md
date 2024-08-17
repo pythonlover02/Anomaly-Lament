@@ -8,5 +8,6 @@ My personal Modpack for S.T.A.L.K.E.R Anomaly
 
 #Mod List:
 S.T.A.L.K.E.R. Anomaly:https://www.moddb.com/mods/stalker-anomaly/downloads/stalker-anomaly-151 && https://www.moddb.com/mods/stalker-anomaly/downloads/stalker-anomaly-151-to-152
+
 Pure Anomaly:https://www.moddb.com/mods/stalker-anomaly/downloads/stalker-anomaly-151-to-152
 
