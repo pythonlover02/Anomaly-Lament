@@ -65,6 +65,6 @@ Utjan's Item UI Improvements:https://www.moddb.com/mods/stalker-anomaly/addons/u
 
 New Walk & Run Animation:https://www.moddb.com/mods/stalker-anomaly/addons/new-walk-run-animation
 
-Better Graphics:https://www.moddb.com/mods/stalker-anomaly/addons/anomaly-immersive-recommended-for-low-pc-1512 //optional graphic mod
+Better Graphics:https://www.moddb.com/mods/stalker-anomaly/addons/anomaly-immersive-recommended-for-low-pc-1512//optional graphic mod
 
-Gloomy & Rainy Mode:https://www.moddb.com/mods/stalker-anomaly/addons/gloomy-rainy-mode-151-152/#8432008 //optional graphic mod
+Gloomy & Rainy Mode:https://www.moddb.com/mods/stalker-anomaly/addons/gloomy-rainy-mode-151-152/#8432008//optional graphic mod
