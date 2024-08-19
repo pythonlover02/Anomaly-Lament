@@ -14,7 +14,7 @@ S.T.A.L.K.E.R. Anomaly 1.5.1:https://www.moddb.com/mods/stalker-anomaly/download
 
 S.T.A.L.K.E.R. Anomaly 1.5.2 Patch:https://www.moddb.com/mods/stalker-anomaly/downloads/stalker-anomaly-151-to-152
 
-Pure Anomaly:https://www.moddb.com/mods/stalker-anomaly/downloads/stalker-anomaly-151-to-152
+Pure Anomaly:[https://www.moddb.com/mods/stalker-anomaly/downloads/stalker-anomaly-151-to-152](https://github.com/crwg/cleananomaly)
 
 Boomsticks and Sharpsticks:https://www.moddb.com/mods/stalker-anomaly/addons/boomsticks-and-sharpsticks
 
