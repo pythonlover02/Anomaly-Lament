@@ -77,3 +77,5 @@ Anomaly Skill System:https://www.moddb.com/mods/stalker-anomaly/addons/anomaly-s
 Skills Expansion 2.1:https://www.moddb.com/mods/stalker-anomaly/addons/skills-expansion-for-anomaly-skill-system
 
 Focus Zoom:https://www.moddb.com/mods/stalker-anomaly/addons/focus-zoom
+
+Maid's Vanilla HD Icons:https://www.moddb.com/mods/stalker-anomaly/addons/maids-vanilla-hd-icons
