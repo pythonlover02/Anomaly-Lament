@@ -10,9 +10,12 @@ My personal Modpack for S.T.A.L.K.E.R Anomaly
 The core idea of this modpack is to enhance the gaming experience with a variety of Quality of Life (QoL) mods, all while preserving the original essence of the game. My goal is to strike a perfect balance between realistic gunplay and casual mechanics, creating an enjoyable environment without the complexity of a body health system. Dive in and experience a more immersive yet accessible adventure!
 
 # Mod List:
+# Base Game:
 S.T.A.L.K.E.R. Anomaly 1.5.1:https://www.moddb.com/mods/stalker-anomaly/downloads/stalker-anomaly-151 
 
 S.T.A.L.K.E.R. Anomaly 1.5.2 Patch:https://www.moddb.com/mods/stalker-anomaly/downloads/stalker-anomaly-151-to-152
+
+# QOL + Extra Content
 
 Pure Anomaly:https://github.com/crwg/cleananomaly
 
