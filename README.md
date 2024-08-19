@@ -79,3 +79,5 @@ Skills Expansion 2.1:https://www.moddb.com/mods/stalker-anomaly/addons/skills-ex
 Focus Zoom:https://www.moddb.com/mods/stalker-anomaly/addons/focus-zoom
 
 Maid's Vanilla HD Icons:https://www.moddb.com/mods/stalker-anomaly/addons/maids-vanilla-hd-icons
+
+More+Custom Starting Locations:https://www.moddb.com/mods/stalker-anomaly/addons/more-starting-locations-152
