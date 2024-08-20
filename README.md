@@ -105,3 +105,12 @@ Gloomy & Rainy Mode:https://www.moddb.com/mods/stalker-anomaly/addons/gloomy-rai
 
 Better Graphics:https://www.moddb.com/mods/stalker-anomaly/addons/anomaly-immersive-recommended-for-low-pc-1512
 
+# If you still want a more hardcore experience i can recommend you:
+
+Body Health System Redux:https://www.moddb.com/mods/stalker-anomaly/addons/100-groks-body-health-system-redux-for-151
+
+ARMR Arti and RavenAscendants Mags Redux:https://www.moddb.com/mods/stalker-anomaly/addons/armr-arti-and-ravenascendants-mags-redux
+
+Both mods works well with the modpack, enjoy :P
+
+# Good hunt S.T.A.L.K.E.R.S
