@@ -99,6 +99,9 @@ Maid's Vanilla HD Icons:https://www.moddb.com/mods/stalker-anomaly/addons/maids-
 More+Custom Starting Locations:https://www.moddb.com/mods/stalker-anomaly/addons/more-starting-locations-152
 
 # Graphics:
+Before installing any of these mods, first open the Launcher and select 'Restore user.ltx.' Next, open and close the game. After that, install the mods and follow the steps outlined in the descriptions on the mod pages. Same goes if you want to restore the graphics to default Anomaly just restore the user.ltx, enjoy :P
+
 Gloomy & Rainy Mode:https://www.moddb.com/mods/stalker-anomaly/addons/gloomy-rainy-mode-151-152/#8432008
 
 Better Graphics:https://www.moddb.com/mods/stalker-anomaly/addons/anomaly-immersive-recommended-for-low-pc-1512
+
