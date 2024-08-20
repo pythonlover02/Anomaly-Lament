@@ -86,10 +86,6 @@ Utjan's Item UI Improvements:https://www.moddb.com/mods/stalker-anomaly/addons/u
 
 New Walk & Run Animation:https://www.moddb.com/mods/stalker-anomaly/addons/new-walk-run-animation
 
-Better Graphics:https://www.moddb.com/mods/stalker-anomaly/addons/anomaly-immersive-recommended-for-low-pc-1512 //optional graphic mod
-
-Gloomy & Rainy Mode:https://www.moddb.com/mods/stalker-anomaly/addons/gloomy-rainy-mode-151-152/#8432008 //optional graphic mod
-
 Starting Loadout Rebalanced:https://www.moddb.com/mods/stalker-anomaly/addons/starting-loadout-rebalanced-multiple-mods-support
 
 Anomaly Skill System:https://www.moddb.com/mods/stalker-anomaly/addons/anomaly-skill-system
@@ -101,3 +97,8 @@ Focus Zoom:https://www.moddb.com/mods/stalker-anomaly/addons/focus-zoom
 Maid's Vanilla HD Icons:https://www.moddb.com/mods/stalker-anomaly/addons/maids-vanilla-hd-icons
 
 More+Custom Starting Locations:https://www.moddb.com/mods/stalker-anomaly/addons/more-starting-locations-152
+
+# Graphics:
+Gloomy & Rainy Mode:https://www.moddb.com/mods/stalker-anomaly/addons/gloomy-rainy-mode-151-152/#8432008
+
+Better Graphics:https://www.moddb.com/mods/stalker-anomaly/addons/anomaly-immersive-recommended-for-low-pc-1512
