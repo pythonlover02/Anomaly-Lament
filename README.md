@@ -113,4 +113,6 @@ ARMR Arti and RavenAscendants Mags Redux:https://www.moddb.com/mods/stalker-anom
 
 Both mods works well with the modpack, enjoy :P
 
+![Screenshot_20240819_174511](https://github.com/user-attachments/assets/5dad54bb-fedb-4f46-80d6-2fccb44f9e8a)
+
 # Good hunt S.T.A.L.K.E.R.S
