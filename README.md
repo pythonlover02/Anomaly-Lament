@@ -32,6 +32,10 @@ Food, drug and drinks animations:https://www.moddb.com/mods/stalker-anomaly/addo
 
 FDDA Enhanced Animations:https://www.moddb.com/mods/stalker-anomaly/addons/fdda-enhanced-animations-food-n-drinks
 
+Stalker Anomaly Modded Exes:https://github.com/themrdemonized/STALKER-Anomaly-modded-exes
+
+Enhanced Graphical User Interface INC:https://www.moddb.com/mods/stalker-anomaly/addons/enhanced-gui
+
 # QoL and Extra Content 
 
 Boomsticks and Sharpsticks:https://www.moddb.com/mods/stalker-anomaly/addons/boomsticks-and-sharpsticks
@@ -77,8 +81,6 @@ Headgear Animations:https://www.moddb.com/mods/stalker-anomaly/addons/headgear-a
 Outfit Animations:https://www.moddb.com/mods/stalker-anomaly/addons/outfit-animations-v099
 
 Camera Reanimation Project:https://www.moddb.com/mods/stalker-anomaly/addons/camera-reanimation-project-inertia
-
-Stalker Anomaly Modded Exes:https://github.com/themrdemonized/STALKER-Anomaly-modded-exes
 
 Utjan's Item UI Improvements:https://www.moddb.com/mods/stalker-anomaly/addons/utjans-item-ui-improvements
 
