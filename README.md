@@ -107,9 +107,9 @@ Better Graphics:https://www.moddb.com/mods/stalker-anomaly/addons/anomaly-immers
 
 # If you still want a more hardcore experience i can recommend you:
 
-Body Health System Redux:https://www.moddb.com/mods/stalker-anomaly/addons/100-groks-body-health-system-redux-for-151
-
 ARMR Arti and RavenAscendants Mags Redux:https://www.moddb.com/mods/stalker-anomaly/addons/armr-arti-and-ravenascendants-mags-redux
+
+Body Health System Redux:https://www.moddb.com/mods/stalker-anomaly/addons/100-groks-body-health-system-redux-for-151
 
 Both mods works well with the modpack, enjoy :P
 
