@@ -105,6 +105,35 @@ Gloomy & Rainy Mode:https://www.moddb.com/mods/stalker-anomaly/addons/gloomy-rai
 
 Better Graphics:https://www.moddb.com/mods/stalker-anomaly/addons/anomaly-immersive-recommended-for-low-pc-1512
 
+# Almost Done:
+To apply custom graphics settings, open the in-game console by pressing the ~ key, then enter each of the following commands one by one:
+  
+    r2_gloss_factor 0.001
+    r2_gloss_min 0.7
+    r2_sun_lumscale 3.0
+    r2_tonemap on
+    r2_tonemap_adaptation 3.0
+    r2_tonemap_middlegray 1.75
+    r2_tnmp_onoff 0
+    r2_sunshafts_min 0.02
+    r2_sunshafts_mode combined
+    r2_sunshafts_value 0.8
+    r__color_grading 0.5, 0.5, 0.5
+    r__exposure 1.0
+    r__gamma 0.8
+    r__optimize_dynamic_geom 3
+    r__optimize_shadow_geom on
+    r__optimize_static_geom 3
+    r__saturation 2.0
+    rs_c_brightness 1.0
+    rs_c_contrast 1.0
+    rs_c_gamma 0.8
+    shader_param_1 1.0, 1.0, 1.0, 0.0
+    shader_param_2 0.0, 0.0, 0.0, 0.03
+    shader_param_3 1.0, 1.0, 1.0, 0.0
+    shader_param_4 1.0, 1.0, 1.0, -0.2
+These commands adjust various graphical parameters, including brightness, contrast, tonemapping, and saturation, to enhance visuals.
+
 # If you still want a more hardcore experience i can recommend you:
 
 ARMR Arti and RavenAscendants Mags Redux:https://www.moddb.com/mods/stalker-anomaly/addons/armr-arti-and-ravenascendants-mags-redux
